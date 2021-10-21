@@ -1,0 +1,3 @@
+/mnt/c/дзшки/стажка/прога/safe_transform/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/дзшки/стажка/прога/safe_transform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/дзшки/стажка/прога/safe_transform/cmake-build-debug/CMakeFiles/safe_transform.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/safe_transform.dir/main.cpp.o  -o safe_transform 
